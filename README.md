@@ -1,6 +1,7 @@
-# Parkinson-s-Disease-prediction-using-ML-and-Data-Analysis-in-Python\
+# Parkinson-s-Disease-prediction-using-ML-and-Data-Analysis-in-Python
+
 ********************************* Important *********************************************
------------------------------------------------------------------------------------------
+
 Note:
 
 1.This project is named Parkinson's Disease Prediction software, and is made in Python(3.9 version). 
@@ -22,7 +23,8 @@ Simply use pip commands in Windows powershell to download the required python Li
  --------------------------------------------------
 The login credentials to sign in the software are generic and listed below:
 
- Username: Admin             Password: 123
+ Username: Admin             
+ Password: 123
 
  ================================================== 
 
